@@ -1,6 +1,7 @@
 hungry = input("are you hungry?")
 if(hungry=="yesy"){
     print("eat hungry");
+    print("eat pizza");
 }else{
     print("do your homework");
 }
